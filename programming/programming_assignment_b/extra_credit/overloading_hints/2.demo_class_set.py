@@ -31,12 +31,14 @@ _s1 = Student(name = 'jane', sid = 1, ssn = "555-22-2123")
 # s1,_s1 are different objects, but have same information.
 # what if you need to be able to compare two objects:
 #    such that return True if information is the same
-# overload __eq__, 
+# overload __eq__ 
 
 
 ##########################################################
 # what if you wanted to take full advantage of set()
 my_set = set([s1,s3])
+ic(_s1)
+print('myset {s1,s3}')
 ic(my_set)
 print('add _s1 into the set')
 my_set.add(_s1)

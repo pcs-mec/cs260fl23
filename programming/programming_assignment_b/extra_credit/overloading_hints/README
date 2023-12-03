@@ -1,7 +1,12 @@
-user defined classes:
+
+
+Video overview: https://youtu.be/2FJyYhMGHcE
+
+user defined class:
 
 1.demo_class_eq.py
-compare == operator, in keyword
+Comparison == operator, in keyword
+compare by field
 
 2.demo_class_set.py  
 taking advantage of set(), comes with a WARNING

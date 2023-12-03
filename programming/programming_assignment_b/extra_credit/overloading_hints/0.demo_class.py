@@ -15,7 +15,7 @@ s3 = Student(name = 'Oki', sid = 3, ssn = "555-44-5555")
 _s1 = Student(name = 'jane', sid = 1, ssn = "555-22-2123")
 
 ##########################################################
-# s1,_s1_ are different objects, but have same information.
+# s1,_s1 are different objects, but have same information.
 # what if you need to be able to compare two objects:
 #    such that return True if information is the same
 
