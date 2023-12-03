@@ -1,0 +1,10 @@
+user defined classes:
+
+1.demo_class_eq.py
+compare == operator, in keyword
+
+2.demo_class_set.py  
+taking advantage of set(), comes with a WARNING
+
+3.demo_class_sort.py
+sorting by field
